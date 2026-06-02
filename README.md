@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:0891b2&height=130&section=header&text=Hey%20there!%20I'm%20Parth%20👋&fontSize=36&fontColor=ffffff&fontAlignY=68" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Agents+that+Think;RAG+Pipelines+%7C+LangChain+%7C+LLM+APIs;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+1872%2B+Rating;Always+open+to+learn+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -115,6 +114,5 @@ status   : Always open to learn something new 🌱
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e1b4b&height=80&section=footer" />
 
 </div>
