@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hey there! I'm Parth Rudrawar👋</h2>
+<h2>Hey there! I'm Parth Rudrawar 👋</h2>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Agents+that+Think;RAG+Pipelines+%7C+LangChain+%7C+LLM+APIs;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+1872%2B+Rating;Always+open+to+learn+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -97,11 +97,11 @@ status   : Always open to learn something new 🌱
 
 <div align="center">
 
-| 🟡 LeetCode | 🟤 CodeChef | 🟢 GeeksforGeeks |
+| Platform | Badge / Rank | Stats |
 |:---:|:---:|:---:|
-| Knight Badge | 3★ Rated | 100+ solved |
-| 1872+ rating | | |
-| 400+ problems | | |
+| 🟡 **LeetCode** | Knight Badge | 1872+ rating · 400+ problems |
+| 🟤 **CodeChef** | 3★ Rated | Active competitor |
+| 🟢 **GeeksforGeeks** | Problem Solver | 100+ problems solved |
 
 </div>
 
