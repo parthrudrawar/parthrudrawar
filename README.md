@@ -9,8 +9,8 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrawarparth99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrawarparth)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parthrudrawar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rudrawar-parth-737018283/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sp_mor/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/parthrudrawar/)
 
 </div>
@@ -22,7 +22,7 @@
 ### `whoami`
 
 ```yaml
-name     : Rudrawar Parth
+name     : Parth Rudrawar 
 college  : IIIT Kota (ECE, 2027)
 location : Pune, India
 focus    : Agentic AI · RAG · LLM Systems
@@ -85,9 +85,9 @@ status   : Always open to learn something new 🌱
 
 ### 🏢 Where I've Worked
 
-> **Machine Learning Intern · Inferyx** &nbsp;`May – Jun 2025`
+> **Machine Learning Intern · Inferyx** &nbsp;`May - Jun 2025`
 
-- 🤖 &nbsp;Built Agentic AI solution — LangChain + LangGraph
+- 🤖 &nbsp;Built Agentic AI solution - LangChain + LangGraph
 - 🔗 &nbsp;Engineered RAG pipelines with Vector Databases
 - ⚙️ &nbsp;Deployed automated ETL pipelines in Python
 
